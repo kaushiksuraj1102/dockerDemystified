@@ -1,4 +1,4 @@
-# dockerDemystified
+# Docker Demystified Readme
 
 Steps to run 
 
